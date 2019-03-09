@@ -1,8 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-	<items>
-<playlist_name><![CDATA[MyList  roman200793  ]]></playlist_name>
+<items>
+	<playlist_name><![CDATA[MyList  roman200793  ]]></playlist_name>
 
-<channel><title><![CDATA[sport.m3u]]></title><playlist_url><![CDATA[http://mylist.obovse.ru/roman200793/sport.m3u]]></playlist_url><description><![CDATA[Спорт-каналы<br> ]]></description><logo_30x30><![CDATA[http://obovse.ru/smarttv/img/m3u.png]]></logo_30x30></channel>
+<channel>
+	<title><![CDATA[Спорт]]></title>
+	<playlist_url>
+		<![CDATA[https://github.com/rmyasoedov/m3u/raw/master/sport.m3u]]>
+	</playlist_url>
+	
+	<description>
+		<![CDATA[Все спорт-каналы<br> ]]>
+	</description>
+	<logo_30x30><![CDATA[https://www.sports.ru/favicon.ico]]></logo_30x30>
+</channel>
 
-<channel><title><![CDATA[tv.m3u]]></title><playlist_url><![CDATA[http://mylist.obovse.ru/roman200793/tv.m3u]]></playlist_url><description><![CDATA[<br> ]]></description><logo_30x30><![CDATA[http://obovse.ru/smarttv/img/m3u.png]]></logo_30x30></channel>
+
 </items>
