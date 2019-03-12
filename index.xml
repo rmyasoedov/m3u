@@ -14,5 +14,17 @@
 	<logo_30x30><![CDATA[https://www.sports.ru/favicon.ico]]></logo_30x30>
 </channel>
 
+<channel>
+	<title><![CDATA[Friends]]></title>
+	<playlist_url>
+		<![CDATA[https://github.com/rmyasoedov/m3u/raw/master/friends.xml]]>
+	</playlist_url>
+	
+	<description>
+		<![CDATA[Friends<br> ]]>
+	</description>
+	<logo_30x30><![CDATA[https://www.sports.ru/favicon.ico]]></logo_30x30>
+</channel>
+
 
 </items>
