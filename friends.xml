@@ -3,15 +3,15 @@
 	<playlist_name><![CDATA[MyList  roman200793  ]]></playlist_name>
 
 <channel>
-	<title><![CDATA[Спорт]]></title>
+	<title><![CDATA[Season 01]]></title>
 	<playlist_url>
-		<![CDATA[https://github.com/rmyasoedov/m3u/raw/master/sport.m3u]]>
+		<![CDATA[https://github.com/rmyasoedov/m3u/raw/master/friends01.m3u]]>
 	</playlist_url>
 	
 	<description>
-		<![CDATA[Все спорт-каналы<br> ]]>
+		<![CDATA[Season 1<br> ]]>
 	</description>
-	<logo_30x30><![CDATA[https://www.sports.ru/favicon.ico]]></logo_30x30>
+	<logo_30x30><![CDATA[http://lelang.ru/favicon.ico]]></logo_30x30>
 </channel>
 
 
