@@ -5,7 +5,7 @@
 <channel>
 	<title><![CDATA[Спорт]]></title>
 	<playlist_url>
-		<![CDATA[https://github.com/rmyasoedov/m3u/raw/master/sport.m3u]]>
+		<![CDATA[https://raw.githubusercontent.com/rmyasoedov/m3u/master/sport.m3u]]>
 	</playlist_url>
 	
 	<description>
