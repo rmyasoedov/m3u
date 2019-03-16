@@ -29,7 +29,7 @@
 <channel>
 	<title><![CDATA[New]]></title>
 	<playlist_url>
-		<![CDATA[https://github.com/rmyasoedov/m3u/raw/master/playlist.m3u]]>
+		<![CDATA[https://raw.githubusercontent.com/rmyasoedov/m3u/master/playlist.m3u]]>
 	</playlist_url>
 	
 	<description>
