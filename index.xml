@@ -25,6 +25,18 @@
 	</description>
 	<logo_30x30><![CDATA[https://www.sports.ru/favicon.ico]]></logo_30x30>
 </channel>
+	
+<channel>
+	<title><![CDATA[New]]></title>
+	<playlist_url>
+		<![CDATA[https://github.com/rmyasoedov/m3u/raw/master/playlist.m3u]]>
+	</playlist_url>
+	
+	<description>
+		<![CDATA[Friends<br> ]]>
+	</description>
+	<logo_30x30><![CDATA[https://www.sports.ru/favicon.ico]]></logo_30x30>
+</channel>
 
 
 </items>
