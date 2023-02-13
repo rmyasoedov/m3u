@@ -1,0 +1,8 @@
+{
+	"user" : {
+		"fio" : "Oleg Petrov",
+		"age" : 25,
+		"mail" : "test@mail.ru",
+		"array" : [659, 452, 916]
+	}
+}
